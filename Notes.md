@@ -1,1 +1,10 @@
-
+- Downloaded Sublime Text with no issues. This will be used for coding and editing.
+- Downloaded Anaconda Python 3.7  64-Bit Graphical Installer, gives me access to Anaconda Powershell, one of the main pieces of software we are using for coding, at least for this week.
+- The Install wizard for Anaconda already began confusing me, luckily we were provided with information to go with all of the defaults.
+- Used the command prompts in anaconda (conda --version & python --version) and successfully confirmed it was installed and installed correctly.
+- Downloaded wget, now able to use commands mixed with urls to get wget to grab files online for me.
+- Only the first one or two of my wget commands worked, most likely was downloaded improperly and I have done something wrong, but I can't figure out what as I followed all of the steps for downloadind. Will have to do further research to hopefully find the issue.
+-Spent a couple of minutes speaking with Dr. Graham on wget, and found out not only was I using the wrong powershell, but I had installed wget twice, and this is why wget was not working properly. After making these switches to anaconda powershell, as well as deleting the first wget program and renaming the second one properly, every command worked.
+-I learned from this that these command lines in sublime text, powershell, etc. are extremely strict, and in the future, if the instructions given to me are not followed to a T, further issues with coding could be encountered. Feels good to get stuff like this working, however, even if it is simple stuff.
+-The API section made sense, and worked properly with anaconda. I was able to save it as a python file, and pull it using anaconda powershell.
+- 
