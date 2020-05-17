@@ -7,4 +7,4 @@
 -Spent a couple of minutes speaking with Dr. Graham on wget, and found out not only was I using the wrong powershell, but I had installed wget twice, and this is why wget was not working properly. After making these switches to anaconda powershell, as well as deleting the first wget program and renaming the second one properly, every command worked.
 -I learned from this that these command lines in sublime text, powershell, etc. are extremely strict, and in the future, if the instructions given to me are not followed to a T, further issues with coding could be encountered. Feels good to get stuff like this working, however, even if it is simple stuff.
 -The API section made sense, and worked properly with anaconda. I was able to save it as a python file, and pull it using anaconda powershell.
-- 
+- I had some issues with Windows Onedrive in Rstudio while setting my working directory. After chatting with Dr. Graham and getting some help from him
